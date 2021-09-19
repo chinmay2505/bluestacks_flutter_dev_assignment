@@ -214,7 +214,7 @@ class UserDetails extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.fromLTRB(
-          AppSpacing.s, 125.0, AppSpacing.s, AppSpacing.s),
+          AppSpacing.s, 100.0, AppSpacing.s, AppSpacing.s),
       child: Column(
         children: [
           Row(
