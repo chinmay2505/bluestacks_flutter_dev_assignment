@@ -31,9 +31,6 @@ The flutter SDK version used in this project is v2.2.1
 **2. Home screen:**
 This will hold some information related to the logged in user, along with a few tournament cards:
 
-<img src="./app-dev-assignment.png" height=417 width=237/>
-
-
   a. API:
   
     i. API to fetch the data for the User Details section i.e. the UI elements above “Recommended for you” section.
