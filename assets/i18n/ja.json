@@ -1,0 +1,12 @@
+{
+  "invalid_input_username": "ユーザー名は3~11文字です",
+  "invalid_input_password": "パスワードは3~11文字の間である必要があります",
+  "username_required": "ユーザー名が必要です",
+  "password_required": "パスワードが必要です",
+  "invalid_credentials": "無効なユーザー名/パスワード",
+  "input_lable_username": "ユーザー名",
+  "input_lable_password": "パスワード",
+  "placeholder_username": "ユーザー名を入力して下さい",
+  "placeholder_password": "パスワードを入力してください",
+  "login": "ログイン"
+}

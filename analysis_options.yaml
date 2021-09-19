@@ -1,0 +1,47 @@
+linter:
+  rules:
+    - avoid_relative_lib_imports
+    - directives_ordering
+    - parameter_assignments
+    - cancel_subscriptions
+    - null_closures
+    - always_declare_return_types
+    - avoid_return_types_on_setters
+    - avoid_shadowing_type_parameters
+    - avoid_types_as_parameter_names
+    - avoid_unnecessary_containers
+    - avoid_slow_async_io
+    - avoid_empty_else
+    - avoid_field_initializers_in_const_classes
+    - avoid_function_literals_in_foreach_calls
+    - prefer_final_in_for_each
+    - prefer_const_constructors
+    - prefer_const_constructors_in_immutables
+    - prefer_const_declarations
+    - prefer_const_literals_to_create_immutables
+    - prefer_contains
+    - prefer_if_elements_to_conditional_expressions
+    - prefer_if_null_operators
+    - prefer_is_empty
+    - prefer_is_not_empty
+    - slash_for_doc_comments
+    - sort_child_properties_last
+    - unnecessary_this
+    - unnecessary_new
+
+analyzer:
+  errors:
+    missing_required_param: error
+    missing_return: error
+    avoid_void_async: error
+    cancel_subscriptions: error
+
+    directives_ordering: warning
+    null_closures: warning
+    avoid_unnecessary_containers: warning
+    parameter_assignments: warning
+    always_declare_return_types: warning
+    avoid_function_literals_in_foreach_calls: warning
+    prefer_final_in_for_each: warning
+    unnecessary_this: warning
+    unnecessary_new: warning

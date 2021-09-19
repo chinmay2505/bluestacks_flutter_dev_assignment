@@ -1,0 +1,12 @@
+{
+  "invalid_input_username": "Username should be between 3 and 11 characters",
+  "invalid_input_password": "Password should be between 3 and 11 characters",
+  "username_required": "Username is required",
+  "password_required": "Password is required",
+  "invalid_credentials": "Invalid Username / Password",
+  "input_lable_username": "Username",
+  "input_lable_password": "Password",
+  "placeholder_username": "Enter your username",
+  "placeholder_password": "Enter your password",
+  "login": "Login"
+}
