@@ -43,14 +43,13 @@ This will hold some information related to the logged in user, along with a few 
   b. The complete page is scrollable
 
 ## Bonus:
-  a. Added analysis_options.yaml file with static linter check in the code.
-  b. Bloc state management is used throughout the application
-  c. Dark Mode / Light Mode support is added in the application and as per device 
-    theme the app theme will be considered
-  d. Localization with English and Japanese language
+    i. Added analysis_options.yaml file with static linter check in the code.
+    ii. Bloc state management is used throughout the application
+    iii. Dark Mode / Light Mode support is added in the application and as per device theme the app theme will be considered
+    iv. Localization with English and Japanese language
 
 ## Here are the screenshots of the assignment
-  a. <img src="./login.png" height=417 width=237/>
-  b. <img src="./light_mode_home.png" height=417 width=237/>
-  c. <img src="./dark_mode_home.png" height=417 width=237/>
+  <img src="./login.png" height=417 width=237/>
+  <img src="./light_mode_home.png" height=417 width=237/>
+  <img src="./dark_mode_home.png" height=417 width=237/>
 
